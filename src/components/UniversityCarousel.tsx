@@ -35,7 +35,7 @@ export default function UniversityCarousel({
   const images = useMemo(() => {
     const list: string[] = [];
     // If dataset already has photos, prefer them
-    // @ts-expect-error optional field
+    
     const photos: string[] | undefined = (u as any).photos;
     if (Array.isArray(photos)) {
       for (const p of photos) if (typeof p === "string" && p.trim()) list.push(p.trim());
