@@ -1,0 +1,312 @@
+{
+  "events": [
+    {
+      "id": "1ffa1de8-d13e-46da-af5d-a541c5545ba2",
+      "ts": "2026-02-10T01:19:58.625Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "48f2b335-31fb-462f-869c-ff6237d0614c",
+      "ts": "2026-02-10T01:19:58.638Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "9aa4707c-e939-41ea-ab32-afb3ae25f45b",
+      "ts": "2026-02-10T02:01:43.937Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "1bd7122c-a2da-40fe-80fb-1efb9e04b723",
+      "ts": "2026-02-10T02:01:43.944Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "a52a8c2f-d7cd-44a3-8922-076db0a41f2f",
+      "ts": "2026-02-10T02:23:01.134Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "b8632904-6970-495e-a275-5b6d5423739e",
+      "ts": "2026-02-10T02:23:01.207Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "0a942b5c-5a86-49d7-af39-7826ae6f51a8",
+      "ts": "2026-02-10T03:42:42.007Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "28ef9140-78cd-4754-8e95-a119fbc52aa1",
+      "ts": "2026-02-10T03:42:42.023Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "e4d5e136-9166-41fd-a3c2-85cc38a19d12",
+      "ts": "2026-02-10T10:04:47.641Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "63ee6523-a3f5-4062-939f-d946bd0af163",
+      "ts": "2026-02-10T10:04:47.648Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "9128c3e4-cf1e-496a-ba79-f32e5aa6f65a",
+      "ts": "2026-02-10T12:50:08.350Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "f6e21459-dff4-46ab-b67e-fc9e425068ca",
+      "ts": "2026-02-10T12:50:08.356Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "ca46e5d9-7dbb-42c2-b145-e556c1c56239",
+      "ts": "2026-02-10T12:50:52.116Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "search",
+      "props": {
+        "q": "adminis",
+        "results": 2982
+      }
+    },
+    {
+      "id": "42b579ea-f3d2-4f8e-85c7-6abc3facb14c",
+      "ts": "2026-02-10T12:50:54.623Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "search",
+      "props": {
+        "q": "administraci",
+        "results": 2486
+      }
+    },
+    {
+      "id": "a9111421-f77e-43cf-8507-da129cc4a05e",
+      "ts": "2026-02-10T12:50:57.403Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "search",
+      "props": {
+        "q": "administraciion",
+        "results": 0
+      }
+    },
+    {
+      "id": "621c215e-ab19-47b0-a681-d14a1c08ccf5",
+      "ts": "2026-02-10T12:50:58.968Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "search",
+      "props": {
+        "q": "administraci",
+        "results": 2486
+      }
+    },
+    {
+      "id": "c558c9cd-2ca6-4118-9206-2346eabd7293",
+      "ts": "2026-02-10T12:51:00.573Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "search",
+      "props": {
+        "q": "administracion",
+        "results": 1827
+      }
+    },
+    {
+      "id": "86a22548-d707-43f2-9a9b-764810e5292e",
+      "ts": "2026-02-10T12:51:44.549Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "open_program",
+      "props": {
+        "programId": "universidad-ean-2812::2812-13129-tecnica-profesional-en-administracion-de-empresas-agroindustriales",
+        "universityId": "universidad-ean-2812"
+      }
+    },
+    {
+      "id": "f7b6017b-6aff-4b0a-bedc-be1c84e9fc7e",
+      "ts": "2026-02-10T12:51:44.554Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "open_program",
+      "props": {
+        "id": "universidad-ean-2812::2812-13129-tecnica-profesional-en-administracion-de-empresas-agroindustriales",
+        "uniId": "universidad-ean-2812"
+      }
+    },
+    {
+      "id": "16cd303f-e564-49d2-adf7-e3701e7bc1b7",
+      "ts": "2026-02-10T12:51:44.558Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/programa/universidad-ean-2812::2812-13129-tecnica-profesional-en-administracion-de-empresas-agroindustriales",
+        "search": ""
+      }
+    },
+    {
+      "id": "776116c8-b329-453e-93e7-1173e1c9db95",
+      "ts": "2026-02-10T12:51:44.568Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "open_program",
+      "props": {
+        "programId": "universidad-ean-2812::2812-13129-tecnica-profesional-en-administracion-de-empresas-agroindustriales",
+        "universityId": "universidad-ean-2812"
+      }
+    },
+    {
+      "id": "831a6e3a-8d54-4363-be8f-034f8a957e1a",
+      "ts": "2026-02-10T12:51:44.574Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "open_program",
+      "props": {
+        "id": "universidad-ean-2812::2812-13129-tecnica-profesional-en-administracion-de-empresas-agroindustriales",
+        "uniId": "universidad-ean-2812"
+      }
+    },
+    {
+      "id": "0df03114-2752-47e3-a7a5-f9714a204db2",
+      "ts": "2026-02-10T12:52:10.649Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "cd59afd6-d1cb-4007-bd3e-a4a3633a83f0",
+      "ts": "2026-02-10T12:56:39.149Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "open_institution",
+      "props": {
+        "universityId": "crehana-per"
+      }
+    },
+    {
+      "id": "123fb75e-15a6-4212-ba09-610cebc1ee64",
+      "ts": "2026-02-10T12:56:39.159Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/institucion/crehana-per",
+        "search": ""
+      }
+    },
+    {
+      "id": "c84cdc81-97d0-4831-92a9-5e869dc113a0",
+      "ts": "2026-02-10T12:56:39.165Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "open_institution",
+      "props": {
+        "universityId": "crehana-per"
+      }
+    },
+    {
+      "id": "71d2cb64-06e0-4ba1-af23-aa1cb0752405",
+      "ts": "2026-02-10T12:56:52.432Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    },
+    {
+      "id": "cb816556-5c5d-4d71-bff8-30d80e41e1d0",
+      "ts": "2026-02-10T12:57:05.257Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "open_institution",
+      "props": {
+        "universityId": "universidad-autonoma-de-bucaramanga-unab-1823"
+      }
+    },
+    {
+      "id": "717d5722-4755-4125-8e13-9dcc763d2650",
+      "ts": "2026-02-10T12:57:05.262Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/institucion/universidad-autonoma-de-bucaramanga-unab-1823",
+        "search": ""
+      }
+    },
+    {
+      "id": "f06207a2-6692-4163-8946-ebe3d67fed11",
+      "ts": "2026-02-10T12:57:05.266Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "open_institution",
+      "props": {
+        "universityId": "universidad-autonoma-de-bucaramanga-unab-1823"
+      }
+    },
+    {
+      "id": "7af8b201-d6d2-4d9f-a4e2-4c08b93ae861",
+      "ts": "2026-02-10T12:57:33.703Z",
+      "sessionId": "68a25fed-bd71-433f-8d96-c44333adc23b",
+      "name": "page_view",
+      "props": {
+        "path": "/",
+        "search": ""
+      }
+    }
+  ],
+  "leads": [],
+  "agreements": []
+}
